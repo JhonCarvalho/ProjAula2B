@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\bin\Debug\Ex4.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\bin\Debug\Ex4.pdb
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\obj\Debug\Ex4.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\obj\Debug\Ex4.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex4\obj\Debug\Ex4.pdb

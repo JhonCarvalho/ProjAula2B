@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\obj\Debug\Ex3.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\bin\Debug\Ex3.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\bin\Debug\Ex3.pdb
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\obj\Debug\Ex3.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex3\obj\Debug\Ex3.pdb
