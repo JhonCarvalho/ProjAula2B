@@ -1,0 +1,6 @@
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\bin\Debug\Ex2.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\bin\Debug\Ex2.pdb
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\obj\Debug\Ex2.exe
+C:\Users\aluno\source\repos\ProjAula2B\Ex2\obj\Debug\Ex2.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53421EFA-BD5F-4EB2-8833-9A40101C1245}</ProjectGuid>
+    <ProjectGuid>{D23D9E73-38A5-4BCC-B123-FE76C366F1E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProjAula2B</RootNamespace>
-    <AssemblyName>ProjAula2B</AssemblyName>
+    <RootNamespace>Ex3</RootNamespace>
+    <AssemblyName>Ex3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
